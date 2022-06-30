@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-auth/static/css/main.b404aefa.css",
+    "main.js": "/react-auth/static/js/main.c7d8e37e.js",
+    "static/js/787.f01c389c.chunk.js": "/react-auth/static/js/787.f01c389c.chunk.js",
+    "index.html": "/react-auth/index.html",
+    "main.b404aefa.css.map": "/react-auth/static/css/main.b404aefa.css.map",
+    "main.c7d8e37e.js.map": "/react-auth/static/js/main.c7d8e37e.js.map",
+    "787.f01c389c.chunk.js.map": "/react-auth/static/js/787.f01c389c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b404aefa.css",
+    "static/js/main.c7d8e37e.js"
+  ]
+}
